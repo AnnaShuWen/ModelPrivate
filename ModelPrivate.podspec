@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+                           是一个用于保存一些常用工具类的工具
                        DESC
 
   s.homepage         = 'https://github.com/AnnaShuWen/ModelPrivate'
@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'ModelPrivate/Classes/**/*'
+  s.source_files = 'ModelPrivate/Classes/**'
   
   # s.resource_bundles = {
   #   'ModelPrivate' => ['ModelPrivate/Assets/*.png']
