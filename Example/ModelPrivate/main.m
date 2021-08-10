@@ -1,0 +1,17 @@
+//
+//  main.m
+//  ModelPrivate
+//
+//  Created by AnnaShuWen on 08/10/2021.
+//  Copyright (c) 2021 AnnaShuWen. All rights reserved.
+//
+
+@import UIKit;
+#import "XXAppDelegate.h"
+
+int main(int argc, char * argv[])
+{
+    @autoreleasepool {
+        return UIApplicationMain(argc, argv, nil, NSStringFromClass([XXAppDelegate class]));
+    }
+}
